@@ -1,0 +1,35 @@
+{
+  "subjectName": "Network Theory",
+  "subjectSlug": "network-theory",
+  "officialSubjectCodes": {
+    "status": "varies_by_institute",
+    "notes": "Consolidated master curriculum subject. Mapped separately to IIT/NIT curricula (e.g., IIT Kharagpur E&ECE Network Theory, IIT Kanpur EE200A Signals, Systems and Networks)."
+  },
+  "academicYear": 2,
+  "semester": 3,
+  "version": "1.0.0",
+  "publicationDate": "2026-11-24",
+  "technicalVerificationStatus": "verified_pilot",
+  "commercialLicenceStatus": "original_ec_vault_authored",
+  "editions": ["professional_digital", "handwritten_style"],
+  "chapters": [
+    "1. Foundational Circuit Laws & Element Models",
+    "2. Network Theorems & Equivalent Circuits",
+    "3. Graph Theory & Matrix Network Analysis",
+    "4. Time-Domain Transient Analysis (RL, RC, RLC)",
+    "5. Laplace Transform & s-Domain Circuit Analysis",
+    "6. Sinusoidal Steady-State, Resonance & Coupled Circuits",
+    "7. Two-Port Networks & Parameter Conversions",
+    "8. Network Functions, Poles/Zeros & Passive Synthesis"
+  ],
+  "referenceUrls": [
+    "https://nptel.ac.in/courses",
+    "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/",
+    "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/",
+    "https://www.allaboutcircuits.com/",
+    "https://www.electronics-tutorials.ws/",
+    "https://www.iitg.ac.in/",
+    "https://www.iitkgp.ac.in/"
+  ]
+}
+
